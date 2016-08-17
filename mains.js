@@ -1,4 +1,4 @@
-
+//usage: node main pt_cities.txt
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
   console.log('Usage: node ' + process.argv[1] + ' FILENAME');
